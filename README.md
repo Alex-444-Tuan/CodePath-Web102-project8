@@ -69,10 +69,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div>
+    <a href="https://www.loom.com/share/2979456d02d04620bd82015ce02cdc8f">
+      <p>GameSphere - The Ultimate Gaming Forum - 26 April 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/2979456d02d04620bd82015ce02cdc8f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2979456d02d04620bd82015ce02cdc8f-d04596a3ad2c4aaf-full-play.gif">
+    </a>
+  </div>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
